@@ -1,10 +1,8 @@
-﻿# Campuseats
+# CampusEats
 
-CampusEats AI - Student Food Assistant
+<img src="./assets/header.svg" width="100%" alt="CampusEats" />
 
-## Stack
-
-react Â· vite Â· typescript Â· tailwindcss
+Student food assistant. Menus, orders, campus delivery.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· tailwindcss
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
